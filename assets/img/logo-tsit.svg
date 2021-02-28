@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_bg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 6450 1510" style="enable-background:new 0 0 6310 1510;background-color:transparent;" xml:space="preserve">
+    <defs>
+        <style>
+            @import url("https://fonts.googleapis.com/css?family=Archivo Black:400,400i,700,700i");
+        </style>
+    </defs>
+    <style type="text/css">
+        .f-img{fill:#FFCC22;}
+        .f-text{fill:#FFFFFF; font-size:900px; font-weight:bold; font-family: Arial Black, Archivo Black, Helvetica;}
+    </style>
+    <g id="graphics">
+        <path class="f-img" d="M 20,1330 L 970,50 L 2175,770 L 1330,770 L 1330,630 L 580,630 L 580,900 L 780,900 L 780,1330 z"/>
+    </g>
+    <g id="text">
+        <text class="f-text" x="630" y="1330" stroke="#cccccc" stroke-width="10">TopSupport</text>
+    </g>
+</svg>
