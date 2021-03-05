@@ -1485,6 +1485,13 @@ section {
   border: 2px dotted #a2cce3;
 }
 
+.contacts_bg {
+  padding: 0 0 0 0!important;
+  box-shadow: none  !important;
+}
+
+
+
 .contact .info-box h3 {
   font-size: 20px;
   color: #666;
